@@ -46,7 +46,7 @@ public class SearchEspressoTest {
 
 
     /**
-     * Auto-complete search Test Case
+     * Auto-complete small letters search Test Case
      * Test Case for testing a successful search in the aut-complete and select a driver.
      * <p>
      * Will test the following:
@@ -137,13 +137,13 @@ public class SearchEspressoTest {
     }
 
     /**
-     * Auto-complete search Test Case
+     * Auto-complete capital letters search Test Case
      * Test Case for testing a successful search in the aut-complete and select a driver.
      * <p>
      * Will test the following:
      * <p>
      * - Display search TextField
-     * - Search 2 letters 'sa'
+     * - Search 2 letters 'SA'
      * - Display 'Sarah Friedrich' in the results
      * - Check correct click() action for 'Sarah Friedrich'
      * - Select 'Sarah Friedrich'
